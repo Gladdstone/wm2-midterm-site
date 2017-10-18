@@ -14,19 +14,7 @@
 </head>
 <body>
 	<div id="content">
-		<div id="mobile_menu" onclick="menuAnimate(this)">
-			<div id="bar1"></div>
-			<div id="bar2"></div>
-			<div id="bar3"></div>
-		</div>
-		<div>
-			<ul id="navbar">
-				<li><a href="index.html">Home</a></li>
-				<li><a href="">News</a></li>
-				<li><a href="">Contact</a></li>
-				<li><a href="">About</a></li>
-			</ul>
-		</div>
+		<?php include "navbar.html" ?>
 	</div>
 </body>
 </html>
