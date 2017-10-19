@@ -4,6 +4,13 @@ html {
 	padding: 0;
 }
 
+#content {
+	margin-top: 5%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 15%;
+}
+
 #mobile_menu {
 	display: none;
 }
@@ -13,23 +20,24 @@ html {
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: #333;
 }
 
 #navbar li {
-	float: left;
+	float: right;
 }
 
 #navbar li a {
 	display: block;
-	color: white;
 	text-align: center;
 	padding: 14px 16px;
+	color: #000000;
 	text-decoration: none;
+	font-weight: bold;
 }
 
 #navbar li a:hover {
 	background-color: #111;
+	color: #ffffff;
 }
 
 @media only screen
@@ -39,6 +47,10 @@ html {
 	#mobile_menu {
 		display: inline-block;
 		cursor: pointer;
+	}
+
+	#navbar {
+		display: none;
 	}
 
 	#bar1, #bar2, #bar3 {
