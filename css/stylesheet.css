@@ -19,6 +19,10 @@ h1 {
 	display: none;
 }
 
+#mobile_menu_button {
+	display: none;
+}
+
 #navbar {
 	list-style-type: none;
 	margin: 0;
@@ -77,6 +81,10 @@ h1 {
 	.change #bar3 {
 		-webkit-transform: rotate(45deg) translate(-8px, -8px) ;
 		transform: rotate(45deg) translate(-8px, -8px) ;
+	}
+
+	.sidebar {
+		
 	}
 
 }
