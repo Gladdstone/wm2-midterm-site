@@ -16,10 +16,16 @@
 <body>
 	<div id="content">
 		<?php include "navbar.html" ?>
-		<h1>California</h1>
-		<h4 class="ital">The Golden State</h4>
+		<h1>Southern California</h1>
 		<br/>
-		<p>Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+		<div class="fltlft iblock">
+			<p>Known best for its beautiful coastline, and spectacular Mexican food, the southernmost region of California is composed of 8 counties - Imperial, Orange, Riverside, Ventura, Saint Barbara, San Diego, San Bernardino, and Los Angeles.</p>
+			<p>In addition to being home to much of the American cinema industry, southern California also contains two of the most populous cities in the United States. Los Angeles ranks at number two, behind New York City with a population of just under four million, and San Diego at number eight at approximately 1.4 million people.
+		</div>
+		<div class="fltrt iblock">
+			<img src="images/mountain.png">
+		</div>
+		<p></p>
 	</div>
 </body>
 </html>
