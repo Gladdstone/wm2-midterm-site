@@ -1,3 +1,4 @@
+HEAD
 function openMenu(elem) {
 	elem.classList.toggle("change");
 	openNav()
@@ -10,4 +11,3 @@ function openNav() {
 function closeNav() {
 	document.getElementById("mobile_menu_button").classList.toggle("change");
     document.getElementById("mobilemenu").style.width = "0";
-}
