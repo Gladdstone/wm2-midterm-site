@@ -1,4 +1,3 @@
-HEAD
 function openMenu(elem) {
 	elem.classList.toggle("change");
 	openNav()
