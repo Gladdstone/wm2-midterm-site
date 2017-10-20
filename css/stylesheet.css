@@ -52,6 +52,15 @@ h1 {
 	and (min-device-width: 414px)
 	and (max-device-width: 736px)
 	and (-webkit-min-device-pixel-ratio: 3) {
+	
+	#banner_img {
+		display: none;
+	}
+
+	#mobilemenu {
+		display: block;
+	}
+
 	#mobile_menu_button {
 		display: inline-block;
 		cursor: pointer;
