@@ -17,6 +17,6 @@ function setYear() {
 	var today = new Date();
 	var year = today.getFullYear();
 
-	var text = $("copyright").innerHTML;
-	$("copyright").innerText = text + " " + year;
+	var text = document.getElementById("copyright").innerHTML;
+	document.getElementById("copyright").innerText = text + " " + year;
 }

@@ -25,9 +25,6 @@
 		<p></p>
 		<br/>
 	</div>
-	<?php 
-		include "footer.html"; 
-		echo "<script src='js/scripts.js'>setYear();</script>";
-	?>
+	<?php include "footer.html"; ?>
 </body>
 </html>
