@@ -16,7 +16,9 @@
 <body>
 	<div id="content">
 		<?php include "navbar.html" ?>
+		<br/><br/>
 		<h1>Southern California</h1>
+		<hr>
 		<br/>
 		<div class="fltlft">
 			<p>Known best for its beautiful coastline, and spectacular Mexican food, the southernmost region of California is composed of 8 counties - Imperial, Orange, Riverside, Ventura, Saint Barbara, San Diego, San Bernardino, and Los Angeles.</p>
