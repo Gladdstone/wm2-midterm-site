@@ -8,12 +8,18 @@ h1 {
 	font-family: Helvetica;
 }
 
+#banner_img {
+	max-width: 100%;
+	height: auto;
+	width: auto;
+	float: right;
+}
+
 #content {
 	margin-top: 5%;
 	margin-left: 10%;
 	margin-right: 10%;
 	margin-bottom: 15%;
-	width: 100%;
 }
 
 #copyright {
@@ -53,6 +59,12 @@ h1 {
 #navbar li a:hover {
 	background-color: #111;
 	color: #ffffff;
+}
+
+.auto_img {
+	max-width: 100%;
+	height: auto;
+	width: auto;
 }
 
 .center {
