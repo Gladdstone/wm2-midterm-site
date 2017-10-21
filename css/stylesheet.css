@@ -13,6 +13,13 @@ h1 {
 	margin-left: 10%;
 	margin-right: 10%;
 	margin-bottom: 15%;
+	width: 100%;
+}
+
+#copyright {
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #mobilemenu {
@@ -46,6 +53,10 @@ h1 {
 #navbar li a:hover {
 	background-color: #111;
 	color: #ffffff;
+}
+
+.center {
+	text-align: center;
 }
 
 .fltlft {
