@@ -1,3 +1,7 @@
+function dropdownInterest() {
+	document.getElementById("dropdown_interest").classList.toggle("show");
+}
+
 function openMenu(elem) {
 	elem.classList.toggle("change");
 	openNav()
