@@ -71,6 +71,10 @@ h1 {
 	text-align: center;
 }
 
+.col2 {
+	width: 40%;
+}
+
 .dropdown {
 	visibility: hidden;
 	opacity: 0;
@@ -100,6 +104,18 @@ h1 {
 
 .iblock {
 	display: inline-block;
+}
+
+.ital {
+	font-style: italic;
+}
+
+.pdlft {
+	padding-left: 10%;
+}
+
+.pdrt {
+	padding-right: 10%;
 }
 
 .show {
