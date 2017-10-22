@@ -11,7 +11,7 @@
 	
 	<link rel="stylesheet" href="css/stylesheet.css" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-	<script type="text/javascript" src="js/script.js"></script>
+	<script type="text/javascript" src="js/scripts.js"></script>
 </head>
 <body>
 	<div id="content">
