@@ -15,8 +15,8 @@
 <body>
 	<div id="content">
 		<?php include "navbar.html" ?>
-		<h1>Orange County</h1>
-		<h4>Largest City: <i>Anaheim</i></h4>
+		<h1>San Bernardino</h1>
+		<h4>Largest City: <i>San Bernardino</i></h4>
 		<hr>
 		<br/><br/>
 		<div class="col2 fltlft pdrt">
