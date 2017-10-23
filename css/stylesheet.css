@@ -1,3 +1,6 @@
+//
+// HTML selectors
+//
 html {
 	font-family: Roboto, Helvetica;
 	margin: 0;
@@ -7,6 +10,11 @@ html {
 h1 {
 	font-family: Helvetica;
 }
+
+
+//
+// ID selectors
+//
 
 #banner_img {
 	max-width: 100%;
@@ -28,6 +36,7 @@ h1 {
 	margin-right: auto;
 }
 
+// Hide mobile menu
 #mobilemenu {
 	display: none;
 }
@@ -36,6 +45,7 @@ h1 {
 	display: none;
 }
 
+// Navbar
 #navbar {
 	list-style-type: none;
 	margin: 0;
@@ -60,7 +70,9 @@ h1 {
 	background-color: #111;
 	color: #ffffff;
 }
+// End navbar
 
+// Autosize images
 .auto_img {
 	max-width: 100%;
 	height: auto;
@@ -71,10 +83,12 @@ h1 {
 	text-align: center;
 }
 
+// used for creating side-by-side divs
 .col2 {
 	width: 40%;
 }
 
+// dropdown on hover
 .dropdown {
 	visibility: hidden;
 	opacity: 0;
@@ -123,6 +137,9 @@ h1 {
 	opacity: 1;
 }
 
+//
+// Responsive design queries
+//
 @media only screen
 	and (min-device-width: 414px)
 	and (max-device-width: 736px)
